@@ -12,7 +12,7 @@ wrong. A gate answers it for you.
 
 **Deliberately not in this document:** which commands to build, where to host,
 how to structure the code. Those are your decisions — see
-`docs/decisions/OPEN-QUESTIONS.md`. This document only says *when things must be
+`docs/OPEN-QUESTIONS.md`. This document only says *when things must be
 true by*.
 
 ---
