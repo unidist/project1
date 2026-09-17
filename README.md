@@ -2,8 +2,6 @@
 
 A GroupMe bot for our group chat. Built by four of us as our first shipped project.
 
-Replace `PROJECT-NAME`, the org name, and the team list below before your first commit.
-
 ## What this is
 
 A bot that lives in our GroupMe. You text a command in the chat, the bot replies.
@@ -66,8 +64,8 @@ later without rewriting everyone's work.
 ## Running it locally
 
 ```bash
-git clone https://github.com/unidist/PROJECT1.git
-cd PROJECT-NAME
+git clone https://github.com/unidist/project1.git
+cd project1
 
 python -m venv .venv
 .venv\Scripts\activate        # Windows
