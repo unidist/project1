@@ -188,7 +188,8 @@ not skip review.
 **Don't merge code you can't explain.** This is the one non-negotiable. If a
 reviewer asks "what does this line do" and the answer is "I don't know, Copilot
 wrote it," that's a request for changes, not a nitpick. You will be the person
-fixing it at 11pm when it breaks.
+fixing it at 11pm when it breaks. Add the prompt you used to make the code in
+the description section - copy and paste works best. 
 
 **Keep pull requests small.** AI will happily hand you 400 lines. A 400-line PR
 gets rubber-stamped, which means it got zero review, which means the rule above
